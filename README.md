@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello, my friend!
+I'm Phil, a software developer and media designer.
+
+<!--
+<div style="width: 100%;">
+  <img src="asset/stats.svg" style="width: 100%;" alt="Stats">
+</div>
+-->
 
 <!--
 **0815fips/0815fips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
